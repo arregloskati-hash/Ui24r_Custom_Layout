@@ -9,7 +9,7 @@ touching Soundcraft's original app files.
 
 Custom made by **Skati Arreglo** — version 1.0.0.
 
-[![Download](https://shields.io)](github.com/arregloskati-hash/Ui24r_Custom_Layout/archive/refs/heads/main.zip)
+[![Download ZIP here!](https://shields.io)](github.com/arregloskati-hash/Ui24r_Custom_Layout/archive/refs/heads/main.zip)
 
 ## Features
 
